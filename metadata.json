@@ -1,0 +1,6 @@
+{
+  "name": "Emad Al-Halqi Portfolio",
+  "description": "Bilingual (AR/EN) Single-File Static Portfolio for Emad Al-Halqi, a Full-Stack Odoo Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
